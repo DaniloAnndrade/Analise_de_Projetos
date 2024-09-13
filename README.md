@@ -1,0 +1,2 @@
+# Analise_de_Projetos
+ Repositório dedicado a análises de requisitos e modelagem de sistemas utilizando UML. Aqui estão documentados diversos projetos acadêmicos e pessoais, nos quais aplico técnicas de análise de requisitos, modelagem de casos de uso, diagramas de classes, entre outros artefatos da Engenharia de Software. Cada projeto inclui uma abordagem detalhada para identificar e solucionar problemas, alinhada às melhores práticas do mercado.
